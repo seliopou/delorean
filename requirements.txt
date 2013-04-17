@@ -1,3 +1,5 @@
+-e git+git@github.com:mitsuhiko/werkzeug.git@0.8.3#egg=werkzeung-0.8.3
+
 distribute
 python-dateutil==2.1
 pytz>=2012h
